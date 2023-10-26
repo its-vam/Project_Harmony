@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Book it</title>
+  <style>
+    body {
+        background-image: url(https://c1.wallpaperflare.com/preview/570/413/91/interior-theatre-theater-empty-theater.jpg);
+        background-size: cover;
+      margin: 0; /* Add margin: 0; to remove default body margin */
+    }
+
+    .ticket {
+      font-family: sans-serif;
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: 100%;
+      background-color: #ffffff;
+      width: 700px;
+      height: 300px;
+      border-radius: 15px;
+      box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.3); /* Use box-shadow instead of -webkit-filter */
+      display: block;
+      margin: 10% auto auto auto;
+      color: #ffffff;
+      position: relative; /* Add position: relative; for proper alignment */
+    }
+
+    .date {
+      margin: 15px;
+    }
+
+    .date .day {
+      font-size: 80px;
+      float: left;
+    }
+
+    .date .month-and-time {
+      float: left;
+      margin: 15px 0 0 0;
+      font-weight: bold;
+    }
+
+    .artist {
+      font-size: 30px;
+      margin: 10px 100px 0 40px;
+      float: left;
+      font-weight: bold;
+    }
+
+    .location {
+      float: left;
+      margin: 135px 0 0 78px;
+      font-size: 20px;
+      font-weight: bold;
+      position: relative; /* Add position: relative; for proper alignment */
+    }
+
+    .location::before {
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png');
+      background-size: 110px 110px;
+      width: 110px;
+      height: 110px;
+      content: "";
+      display: inline-block;
+      float: left;
+      position: absolute;
+      left: -160px;
+      bottom: 5px;
+      box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.3); /* Use box-shadow instead of -webkit-filter */
+    }
+
+    .rip {
+      border-right: 5px dotted #ffffff;
+      height: 300px;
+      position: absolute;
+      top: 0;
+      left: 530px;
+    }
+
+    .cta .buy {
+      position: absolute;
+      top: 135px;
+      right: -35px; /* Adjust the positioning */
+      display: block;
+      font-size: 12px;
+      font-weight: bold;
+      background-color: #fefefe00;
+      padding: 10px 20px;
+      border-radius: 25px;
+      color: #000000;
+      text-decoration: none;
+      transform: rotate(-90deg);
+      box-shadow: 3px 3px 3px 3px rgba(255, 255, 255, 0.784); /* Use box-shadow instead of -webkit-filter */
+    }
+
+    .small {
+      font-weight: 200;
+    }
+
+    .ticket-1 {
+    background-image: src("D:\PROJECT\DJ_Snake.jpg") /*url(https://djsnake.com/wp-content/uploads/2019/12/Fuego-wallpaper-desktop-ALL.jpg)*/;
+    }
+
+  
+  </style>
+</head>
+<body>
+   
+<div class="ticket ticket-1">
+  <div class="date">
+    <span class="day">31</span>
+    <span class="month-and-time">OCT<br><span class="small">8PM</span></span>
+  </div>
+  <div class="artist">
+    <span class="name">The DJ SNAKE</span><br>
+    <span class="live small">Live</span>
+  </div>
+  <div class="location">
+    <span>_____________</span><br>
+    <span class="small">SOFI STADIUM</span>
+  </div>
+  <div class="rip"></div>
+  <div class="cta">
+
+  </div>
+</div>
+
+
+</div>
+</body>
+</html>
