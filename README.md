@@ -12,6 +12,8 @@ Harmony is a cutting-edge platform that brings music enthusiasts closer to their
 - **Artist Interactions:** Get closer to the artists you love through virtual meet-and-greets, Q&A sessions, and exclusive content.
 - **Community:** Connect with fellow music lovers, share your concert experiences, and stay updated with the latest music news.
 
+## Home Page
+
 ## Technology Stack
 Harmony is built using a powerful technology stack, including:
 - **HTML**: For creating the structure and content of web pages.
