@@ -13,7 +13,7 @@ Harmony is a cutting-edge platform that brings music enthusiasts closer to their
 - **Community:** Connect with fellow music lovers, share your concert experiences, and stay updated with the latest music news.
 
 ## Home Page
-https://github.com/its-vam/Project_Harmony/issues/1#issue-1963105012
+
 
 ## Technology Stack
 Harmony is built using a powerful technology stack, including:
