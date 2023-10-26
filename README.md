@@ -13,6 +13,8 @@ Harmony is a cutting-edge platform that brings music enthusiasts closer to their
 - **Community:** Connect with fellow music lovers, share your concert experiences, and stay updated with the latest music news.
 
 ## Home Page
+![HARMONY - An immersive Experience - Google Chrome 2023-10-26 12-29-18_screenshot (3)](https://github.com/its-vam/Project_Harmony/assets/149049069/701f6697-e797-4a07-a741-06e5e739749a)
+
 
 
 ## Technology Stack
